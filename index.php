@@ -236,7 +236,7 @@
 							</li>
 						</ul>
 						<div class="price-btn">
-						<a href="#contact" class="btn btn-outline-bloodred btn-lg">Start Now</a>
+						<a href="#startnow" class="btn btn-outline-bloodred btn-lg">Start Now</a>
 						</div>
 					</div>
 				</div>
@@ -264,7 +264,7 @@
 							</li>
 						</ul>
 						<div class="price-btn">
-							<a href="#contact" class="btn btn-outline-bloodred btn-lg">Start Now</a>
+							<a href="#startnow" class="btn btn-outline-bloodred btn-lg">Start Now</a>
 						</div>
 					</div>
 				</div>
@@ -284,7 +284,7 @@
 						
 						</ul>
 						<div class="price-btn">
-						<a href="#contact" class="btn btn-outline-bloodred btn-lg">Get In Touch</a>
+						<a href="#startnow" class="btn btn-outline-bloodred btn-lg">Get In Touch</a>
 						</div>
 					</div>
 				</div>
